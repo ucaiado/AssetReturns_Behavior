@@ -10,6 +10,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [Matplotlib](http://matplotlib.org/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
+- [Pandas-Datareader](https://pandas-datareader.readthedocs.io/en/latest/)
 - [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
 
 
