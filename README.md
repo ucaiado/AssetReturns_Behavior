@@ -14,8 +14,5 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
 
 
-### Reference
-1. R. S. Tsay.  *AAnalysis of Financial Time Series, 3rd Edition*.   Wiley Publications, 2010. [*link*](http://www.kalotay.com/sites/default/files/private/FAJ93.pdf)
-
 ### License
 The contents of this repository are covered under the [MIT License](LICENSE).
